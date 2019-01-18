@@ -1,2 +1,3 @@
-# cloudcms-archives
-Public Archives (Templates) for Cloud CMS
+# Public Archives (Templates) for Cloud CMS
+
+Managed by Cloud CMS

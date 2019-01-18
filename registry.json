@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "id": "sample",
+            "title": "Sample Project",
+            "description": "Description of the Sample Project",
+            "archive": {
+                "group": "org.gitana.sample",
+                "artifact": "sample-project",
+                "version": "2.3.0"
+            },
+            "type": "project",
+            "path": "projects/sample/dist/org.gitana.sample-sample-project-2.3.0.zip"
+        }
+    ]
+}
