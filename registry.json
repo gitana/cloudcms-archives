@@ -10,7 +10,7 @@
                 "version": "2.3.6"
             },
             "type": "project",
-            "path": "projects/sample/dist/org.gitana.sample-sample-project-2.3.6.zip"
+            "path": "registry/org.gitana.sample-sample-project-2.3.6.zip"
         }
     ]
 }

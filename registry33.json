@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "id": "sample",
+            "title": "Sample Project",
+            "description": "A getting started project that provides sample Content Types, Workflows, Forms, Releases and Draft content production workspaces to approve and publish content.",
+            "archive": {
+                "group": "org.gitana.sample",
+                "artifact": "sample-project",
+                "version": "3.3.1"
+            },
+            "type": "project",
+            "path": "registry/org.gitana.sample-sample-project-3.3.1.zip"
+        }
+    ]
+}
