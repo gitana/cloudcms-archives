@@ -2,7 +2,7 @@
     "templates": [
         {
             "id": "sample",
-            "title": "Sample Project",
+            "title": "Sample Project 4.0",
             "description": "A getting started project that provides sample Content Types, Workflows, Forms, Releases and Draft content production workspaces to approve and publish content.",
             "archive": {
                 "group": "org.gitana.sample",
