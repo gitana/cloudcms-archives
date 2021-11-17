@@ -7,10 +7,10 @@
             "archive": {
                 "group": "org.gitana.sample",
                 "artifact": "sample-project",
-                "version": "2.3.6"
+                "version": "2.3.7"
             },
             "type": "project",
-            "path": "registry/org.gitana.sample-sample-project-2.3.6.zip"
+            "path": "registry/org.gitana.sample-sample-project-2.3.7.zip"
         }
     ]
 }
